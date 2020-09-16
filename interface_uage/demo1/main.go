@@ -24,6 +24,7 @@ func main() {
 	x.say()     // 喵喵喵
 	x = b       // 可以把dog实例直接赋值给x
 	x.say()     // 汪汪汪
+	fmt.Println(x)
 
 }
 
