@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="516d6e31-0575-46ed-a194-35a816bf233f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/protobuf/demo1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_usage/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_usage/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_usage/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_usage/demo4/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build go-code/func_usage/demo2">
-    <configuration name="go build go-code/func_usage/demo1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go-code" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/func_usage/demo1/main.go" />
-      <package value="go-code/func_usage/demo1" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build go-code/mysql_usage/demo4">
     <configuration name="go build go-code/func_usage/demo2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-code" />
       <working_directory value="$PROJECT_DIR$" />
@@ -67,40 +63,49 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-code/interface_uage/demo1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-code/mysql_usage/demo1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-code" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/interface_uage/demo1/main.go" />
-      <package value="go-code/interface_uage/demo1" />
+      <filePath value="$PROJECT_DIR$/mysql_usage/demo1/main.go" />
+      <package value="go-code/mysql_usage/demo1" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-code/interface_uage/demo2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-code/mysql_usage/demo2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-code" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/interface_uage/demo2/main.go" />
-      <package value="go-code/interface_uage/demo2" />
+      <filePath value="$PROJECT_DIR$/mysql_usage/demo2/main.go" />
+      <package value="go-code/mysql_usage/demo2" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-code/pointer_usage/demo1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-code/mysql_usage/demo3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-code" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/pointer_usage/demo1/main.go" />
-      <package value="go-code/pointer_usage/demo1" />
+      <filePath value="$PROJECT_DIR$/mysql_usage/demo3/main.go" />
+      <package value="go-code/mysql_usage/demo3" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go-code/mysql_usage/demo4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/mysql_usage/demo4/main.go" />
+      <package value="go-code/mysql_usage/demo4" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go-code/mysql_usage/demo4" />
+        <item itemvalue="Go Build.go build go-code/mysql_usage/demo2" />
+        <item itemvalue="Go Build.go build go-code/mysql_usage/demo3" />
+        <item itemvalue="Go Build.go build go-code/mysql_usage/demo1" />
         <item itemvalue="Go Build.go build go-code/func_usage/demo2" />
-        <item itemvalue="Go Build.go build go-code/func_usage/demo1" />
-        <item itemvalue="Go Build.go build go-code/interface_uage/demo2" />
-        <item itemvalue="Go Build.go build go-code/interface_uage/demo1" />
-        <item itemvalue="Go Build.go build go-code/pointer_usage/demo1" />
       </list>
     </recent_temporary>
   </component>
