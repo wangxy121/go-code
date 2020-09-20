@@ -28,6 +28,8 @@ type user struct {
 	Age  int	`json:"age"`
 	Name string	`json:"name"`
 }
+
+//使用 sqlx='’；；。/
 func main()  {
 	initDB()
 	//queryRowDemo()
