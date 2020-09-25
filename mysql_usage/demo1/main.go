@@ -40,9 +40,9 @@ func main() {
 	}
 	//queryRowDemo()
 	//insertRowDemo()
-	updateRowDemo();
+	//updateRowDemo();
 	queryMultiRowDemo()
-	deleteRowDemo()
+	//deleteRowDemo()
 
 
 }

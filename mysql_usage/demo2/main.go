@@ -35,7 +35,8 @@ type user struct {
 func main() {
 	initDB()
 
-	prepareQueryDemo()
+	//prepareQueryDemo()
+	prepareInsertDemo()
 }
 
 // 预处理查询示例
